@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nuckyvilano
+- 👀 I’m interested in Software Development and Automation Test
+- 🌱 I’m currently learning Selenium Automation and Appium Automation
